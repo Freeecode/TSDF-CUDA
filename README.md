@@ -11,7 +11,7 @@ A simple example for TSDF fusion.
 
 ## 3. TO DO
 
-* []Support large voxel grid size
-* []Voxel Hash
-* []Deintegration
+* [x]Support large voxel grid size
+* [x]Voxel Hash
+* [x]Deintegration
 
