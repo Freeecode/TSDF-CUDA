@@ -1,0 +1,25 @@
+%YAML:1.0
+
+#--------------------------------------------------------------------------------------------
+# TSDF Fusion Parameters. Adjust them!
+#--------------------------------------------------------------------------------------------
+
+# Camera calibration and distortion parameters (OpenCV) for Camera
+Camera.fx: 585.0
+Camera.fy: 585.0
+Camera.cx: 320.0
+Camera.cy: 240.0
+
+# Camera image resolution
+Camera.width: 640
+Camera.height: 480
+
+# TSDF Parameters
+# Resolution
+VoxelSize: 0.006
+
+#Truncation in meter
+Truncation: 0.03
+
+# GridSize
+GridSize: 500
