@@ -14,4 +14,5 @@ A simple example for TSDF fusion.
 - [ ] Support large voxel grid size
 - [ ] Voxel Hash
 - [ ] Deintegration
+- [ ] PCL gpu module
 
